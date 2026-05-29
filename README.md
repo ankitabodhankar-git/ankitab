@@ -63,22 +63,6 @@ A web-based academic analysis platform designed to monitor and analyze student p
 
 **Tech Used:**
 HTML, CSS, JavaScript, PHP, MySQL
-
-### ✅ Simple Task Dashboard
-
-A clean and responsive task dashboard project designed for managing daily tasks with a simple user interface and organized task sections.
-
-**Features:**
-
-* Task tracking
-* Responsive dashboard layout
-* Simple and clean UI
-* Task cards with status indicators
-* Easy navigation
-
-**Tech Used:**
-HTML, CSS
-
 ---
 
 ### 😊 Emoji Tracker UI
@@ -99,13 +83,13 @@ HTML, CSS
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitabodhankar-git\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitabodhankar-git\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ankitabodhankar-git\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ankitabodhankar-git\&theme=tokyonight\&hide_border=true)
 
 ---
 
