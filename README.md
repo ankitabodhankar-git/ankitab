@@ -80,17 +80,15 @@ A small interactive frontend project created using emoji-based mood/activity tra
 HTML, CSS
 
 ---
-
 ## 📊 GitHub Stats
 
-![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitabodhankar-git\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitabodhankar-git\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ankitabodhankar-git\&theme=tokyonight\&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=ankitabodhankar-git\&theme=tokyonight\&hide_border=true)
 ---
 
 ## 🌱 Currently Exploring
